@@ -1,0 +1,29 @@
+{
+    "name": "bantenprov/penyelesaian-tindak-pidana-polda",
+    "description": "Persentase penyelesaian tindak pidana Polda",
+    "authors": [
+        {
+            "name": "bantenprov",
+            "email": "developer.bantenprov@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/penyelesaian-tindak-pidana-polda,",
+      "issues": "https://github.com/bantenprov/penyelesaian-tindak-pidana-polda/issues",
+      "wiki": "https://github.com/bantenprov/penyelesaian-tindak-pidana-polda/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.4.*"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\TindakPidanaPolda\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
