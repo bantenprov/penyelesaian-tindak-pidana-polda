@@ -5,25 +5,17 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Rasio Grup Kesenian Kabupaten Pandeglang",
+      "title": "Polda Provinsi Banten 2011",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          6.33,
-          6.38,
-          6.43,
-          6.44,
-          6.45,
-          6.50
+          3205,
+          1936
         ]
       }
     ]
@@ -31,27 +23,20 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kabupaten Lebak",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Provinsi Banten 2012",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          5.58,
-          5.70,
-          5.81,
-          5.84,
-          5.86
+          3804,
+          2396
         ]
       }
     ]
@@ -59,27 +44,20 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kabupaten Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Provinsi Banten 2013",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          7.85,
-          7.96,
-          8.07,
-          8.18,
-          8.20,
-          8.22
+          4259,
+          2367
         ]
       }
     ]
@@ -87,27 +65,20 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kabupaten Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Provinsi Banten 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          6.07,
-          6.31,
-          6.57,
-          6.65,
-          6.69,
-          6.90
+          5741,
+          1953
         ]
       }
     ]
@@ -115,27 +86,20 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Provinsi Banten 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          9.64,
-          9.75,
-          9.76,
-          9.82,
-          10.20,
-          10.20
+          5002,
+          1917
         ]
       }
     ]
@@ -143,27 +107,20 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Cilegon",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Seluruh Indonesia 2011",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          8.71,
-          8.93,
-          9.29,
-          9.60,
-          9.66,
-          9.67
+          347605,
+          182041
         ]
       }
     ]
@@ -171,27 +128,20 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Seluruh Indonesia 2012",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          8.32,
-          8.39,
-          8.48,
-          8.56,
-          8.58,
-          8.59  
+          341159,
+          177573
         ]
       }
     ]
@@ -199,27 +149,62 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Tangerang Selatan",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Polda Seluruh Indonesia 2013",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
       ]
     },
     "series": [
       {
         "data": [
-          10.86,
-          10.87,
-          11.09,
-          11.48,
-          11.56,
-          11.57  
+          342084,
+          181030
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Polda Seluruh Indonesia 2014",
+      "data": [
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          325317,
+          176517
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Polda Seluruh Indonesia 2015",
+      "data": [
+        "Tindak Pidana",
+        "Tindak Pidana Yang Diselesaikan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          352936,
+          205162
         ]
       }
     ]

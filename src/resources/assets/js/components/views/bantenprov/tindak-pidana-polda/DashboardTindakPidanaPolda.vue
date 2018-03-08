@@ -18,14 +18,15 @@
       </div><!-- /col -->
     </div><!-- /.row -->
 
-    <!-- ===================================================================== -->
+
+   <!-- ===================================================================== -->
 
     <div class="row">
       <div class="col-lg-8 mb-3">
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Wilayah
+            Penyelesaian Tindak Pidana Polda Banten dan Indonesia Berdasarkan Tahun
           </div>
           <div class="card-body">
             <tindak-pidana-polda-bar-01></tindak-pidana-polda-bar-01>
@@ -36,7 +37,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Tahun
+            Persentase Penyelesaian Tindak Pidana Polda Berdasarkan Tahun
           </div>
           <div class="card-body">
             <tindak-pidana-polda-pie-01></tindak-pidana-polda-pie-01>
@@ -63,7 +64,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Tahun
+             Penyelesaian Tindak Pidana Polda Banten dan Indonesia Berdasarkan Kategori
           </div>
           <div class="card-body">
             <tindak-pidana-polda-bar-02></tindak-pidana-polda-bar-02>

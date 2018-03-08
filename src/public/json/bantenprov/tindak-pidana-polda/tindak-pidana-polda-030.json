@@ -5,9 +5,8 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Rasio Grup Kesenian Provinsi Banten",
+      "title": "Jumlah Tindak Pidana Polda Provinsi Banten",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
@@ -18,12 +17,12 @@
     "series": [
       {
         "data": [
-          7.92,
-          7.95,
-          8.06,
-          8.17,
-          8.19,
-          8.27
+          3205,
+          3804,
+          4259,
+          5741,
+          5002
+
         ]
       }
     ]
@@ -31,11 +30,11 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Negara Indonesia",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Tindak Pidana Yang Diselesaikan Polda Provinsi Banten",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
@@ -46,12 +45,68 @@
     "series": [
       {
         "data": [
-          7.46,
-          7.52,
-          7.59,
-          7.61,
-          7.73,
-          7.84
+          1936,
+          2396,
+          2367,
+          1953,
+          1917
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Tindak Pidana Polda Seluruh Indonesia",
+      "data": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          347605,
+          341159,
+          342084,
+          325317,
+          352936
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Tindak Pidana Yang Diselesaikan Polda Seluruh Indonesia",
+      "data": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          182041,
+          177573,
+          181030,
+          176517,
+          205162
+
         ]
       }
     ]
