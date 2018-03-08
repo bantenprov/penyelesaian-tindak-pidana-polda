@@ -14,7 +14,7 @@ export default {
           text: '',
           x: 'center',
           textStyle: {
-            fontSize: 16,
+            fontSize: 14,
             fontWeight: 'normal',
             fontStyle: 'normal',
             color: '#fff'
@@ -72,7 +72,7 @@ export default {
         series: [{
           type:'pie',
           data:[].sort(function (a, b) { return a.value - b.value; }),
-          radius: '55%',
+          radius: '40%',
           roseType: 'radius',
           cursor: 'default',
           itemStyle: {
@@ -80,7 +80,7 @@ export default {
           },
           label: {
             show: true,
-            fontSize: 9,
+            fontSize: 8,
             fontWeight: 'normal',
             fontStyle: 'normal',
             color: '#fff'

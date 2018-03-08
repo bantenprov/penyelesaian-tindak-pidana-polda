@@ -4,20 +4,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2010 Provinsi Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Provinsi Banten 2011",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.33,"name":"Kabupaten Pandeglang"},
-          {"value":5.34,"name":"Kabupaten Lebak"},
-          {"value":7.85,"name":"Kabupaten Tangerang"},
-          {"value":6.07,"name":"Kabupaten Serang"},
-          {"value":9.64,"name":"Kota Tangerang"},
-          {"value":8.71,"name":"Kota Cilegon"},
-          {"value":8.23,"name":"Kota Serang"},
-          {"value":10.86,"name":"Kota Tangerang Selatan"}
+          {"value":1936,"name":"Pidana Yang Diselesaikan"},
+          {"value":3205,"name":"Tindak Pidana"}
+          
         ]
       }
     ]
@@ -27,20 +22,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2011 Provinsi Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Provinsi Banten 2012",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.38,"name":"Kabupaten Pandeglang"},
-          {"value":5.58,"name":"Kabupaten Lebak"},
-          {"value":7.96,"name":"Kabupaten Tangerang"},
-          {"value":6.31,"name":"Kabupaten Serang"},
-          {"value":9.75,"name":"Kota Tangerang"},
-          {"value":8.93,"name":"Kota Cilegon"},
-          {"value":8.39,"name":"Kota Serang"},
-          {"value":10.87,"name":"Kota Tangerang Selatan"}
+          {"value":2396,"name":"Pidana Yang Diselesaikan"},
+          {"value":3804,"name":"Tindak Pidana"}
+          
         ]
       }
     ]
@@ -50,20 +40,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2012 Provinsi Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Provinsi Banten 2013",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.43,"name":"Kabupaten Pandeglang"},
-          {"value":5.70,"name":"Kabupaten Lebak"},
-          {"value":8.07,"name":"Kabupaten Tangerang"},
-          {"value":6.57,"name":"Kabupaten Serang"},
-          {"value":9.76,"name":"Kota Tangerang"},
-          {"value":9.29,"name":"Kota Cilegon"},
-          {"value":8.48,"name":"Kota Serang"},
-          {"value":11.09,"name":"Kota Tangerang Selatan"}
+          {"value":2367,"name":"Pidana Yang Diselesaikan"},
+          {"value":4259,"name":"Tindak Pidana"}
+          
         ]
       }
     ]
@@ -73,20 +58,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2013 Provinsi Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Provinsi Banten 2014",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.44,"name":"Kabupaten Pandeglang"},
-          {"value":5.81,"name":"Kabupaten Lebak"},
-          {"value":8.18,"name":"Kabupaten Tangerang"},
-          {"value":6.65,"name":"Kabupaten Serang"},
-          {"value":9.82,"name":"Kota Tangerang"},
-          {"value":9.60,"name":"Kota Cilegon"},
-          {"value":8.56,"name":"Kota Serang"},
-          {"value":11.48,"name":"Kota Tangerang Selatan"}
+          {"value":1953,"name":"Pidana Yang Diselesaikan"},
+          {"value":5741,"name":"Tindak Pidana"}
+          
         ]
       }
     ]
@@ -96,20 +76,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2014 Provinsi Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Provinsi Banten 2015",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.45,"name":"Kabupaten Pandeglang"},
-          {"value":5.84,"name":"Kabupaten Lebak"},
-          {"value":8.20,"name":"Kabupaten Tangerang"},
-          {"value":6.69,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.66,"name":"Kota Cilegon"},
-          {"value":8.85,"name":"Kota Serang"},
-          {"value":11.56,"name":"Kota Tangerang Selatan"}
+          {"value":1917,"name":"Pidana Yang Diselesaikan"},
+          {"value":5002,"name":"Tindak Pidana"}
+          
         ]
       }
     ]
@@ -119,20 +94,87 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2015 Provinsi Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Seluruh Indonesia 2011",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.60,"name":"Kabupaten Pandeglang"},
-          {"value":5.86,"name":"Kabupaten Lebak"},
-          {"value":8.22,"name":"Kabupaten Tangerang"},
-          {"value":6.90,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.67,"name":"Kota Cilegon"},
-          {"value":8.59,"name":"Kota Serang"},
-          {"value":11.57,"name":"Kota Tangerang Selatan"}
+          {"value":182041,"name":"Pidana Yang Diselesaikan"},
+          {"value":347605,"name":"Tindak Pidana"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Seluruh Indonesia 2012",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":177573,"name":"Pidana Yang Diselesaikan"},
+          {"value":341159,"name":"Tindak Pidana"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Seluruh Indonesia 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":181030,"name":"Pidana Yang Diselesaikan"},
+          {"value":342084,"name":"Tindak Pidana"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Seluruh Indonesia 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":176517,"name":"Pidana Yang Diselesaikan"},
+          {"value":325317,"name":"Tindak Pidana"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Penyelesaian Tindak Pidana Polda Seluruh Indonesia 2015",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":205162,"name":"Pidana Yang Diselesaikan"},
+          {"value":352936,"name":"Tindak Pidana"}
+          
         ]
       }
     ]
