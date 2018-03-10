@@ -5,7 +5,7 @@ namespace Bantenprov\TindakPidanaPolda\Http\Controllers;
 /* Require */
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bantenprov\BudgetAbsorption\Facades\TindakPidanaPoldaFacade;
+use Bantenprov\TindakPidanaPolda\Facades\TindakPidanaPoldaFacade;
 
 /* Models */
 use Bantenprov\TindakPidanaPolda\Models\Bantenprov\TindakPidanaPolda\TindakPidanaPolda;
